@@ -34,6 +34,13 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![CoAP](https://img.shields.io/badge/CoAP-0066CC?style=for-the-badge&logoColor=white)
 
+**Industrial Automation**  
+
+![Ladder](https://img.shields.io/badge/Ladder-FF6B00?style=for-the-badge&logoColor=white) ![GRAFCET](https://img.shields.io/badge/GRAFCET-0078D4?style=for-the-badge&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
+
+**Backend & Microservices**  
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases & Storage**  
 
@@ -45,28 +52,28 @@
 
 **Tools & Platforms**  
 
-![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white) ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white) ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🚚 [TrackSecure: IoT Package Tracking System](https://github.com/abdessamadasklou/tracksecure)
+### 🚚 [TrackSecure: IoT Package Tracking System](https://github.com/abdessamadasklou/parcel-tracking-iot-based)
 Complete IoT solution for real-time package tracking with GPS, ESP32, MQTT/CoAP protocols, Spring Boot microservices, Apache Kafka event streaming, and Apache Spark for ML-based delivery predictions.
 
 **Tech Stack:** ESP32, GPS, MQTT, CoAP, Spring Boot, Apache Kafka, Apache Spark, PostgreSQL, Redis, Machine Learning
 
-### 🌡️ [Warehouse Temperature Monitoring System](https://github.com/abdessamadasklou/warehouse-monitoring)
+### 🌡️ [Warehouse Temperature Monitoring System](https://github.com/abdessamadasklou/SDR-Project)
 Distributed temperature and humidity monitoring system using Java RMI and Spring Boot, with DHT11 sensor simulation in Proteus and real-time web dashboard.
 
 **Tech Stack:** Java RMI, Spring Boot, Proteus, DHT11 Sensors, Web Dashboard
 
-### 🚨 [Smart Motion Detection System](https://github.com/abdessamadasklou/motion-detection)
+### 🚨 [Smart Motion Detection System](https://github.com/abdessamadasklou/Projet-Detection-de-mouvement)
 Real-time motion detection combining Arduino UNO and OpenCV (Python) with alarm triggering and Python-Arduino communication.
 
 **Tech Stack:** Arduino UNO, Python, OpenCV, Proteus, Serial Communication
 
-### 🔐 Smart Door Lock System
+### 🔐 [Smart Door Lock System](https://drive.google.com/drive/folders/1vF1R62h7uunyehtfrWAlfpydPO90LuaY?usp=sharing)
 Automatic locking system based on ESP32-CAM and Blynk Cloud with presence detection, image capture via Wi-Fi, and mobile app control with instant notifications.
 
 **Tech Stack:** ESP32-CAM, Blynk, Wi-Fi, Mobile App Integration
