@@ -1,9 +1,10 @@
 # Hi there, I'm Abdessamad ASKLOU 👋
 
-**IoT Developer | Embedded Systems | Master's Student in Computer Engineering & Embedded Systems**
+**IoT Developer | Embedded Systems & Industrial Automation | SCADA/Télégestion | Master's Graduate in Computer Engineering & Embedded Systems**
 
-🎓 2nd-year Master's student in Computer Engineering & Embedded Systems  
-🔍 Looking for an internship starting February 2026
+🎓 Master's graduate in Computer Engineering & Embedded Systems  
+💧 Completed my PFE internship at **ONEE (Office National de l'Électricité et de l'Eau potable)** — Industrial telemetry & SCADA system for a water pumping station  
+🔍 Open to full-time opportunities & collaborations
 
 ---
 
@@ -36,7 +37,7 @@
 
 **Industrial Automation**  
 
-![Ladder](https://img.shields.io/badge/Ladder-FF6B00?style=for-the-badge&logoColor=white) ![GRAFCET](https://img.shields.io/badge/GRAFCET-0078D4?style=for-the-badge&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
+![Ladder](https://img.shields.io/badge/Ladder-FF6B00?style=for-the-badge&logoColor=white) ![GRAFCET](https://img.shields.io/badge/GRAFCET-0078D4?style=for-the-badge&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white) ![SOFREL](https://img.shields.io/badge/SOFREL_S550-1F4E5F?style=for-the-badge&logoColor=white) ![SCADA](https://img.shields.io/badge/SCADA-00695C?style=for-the-badge&logoColor=white) ![Modbus](https://img.shields.io/badge/Modbus_RTU%2FTCP-6D4C41?style=for-the-badge&logoColor=white) ![Télégestion](https://img.shields.io/badge/T%C3%A9l%C3%A9gestion-2E7D32?style=for-the-badge&logoColor=white)
 
 **Backend & Microservices**  
 
@@ -57,6 +58,11 @@
 ---
 
 ## 🎯 Featured Projects
+
+### 💧 [SmartPump-ONEE: Industrial Telemetry & SCADA System](https://github.com/abdessamadasklou/telegestion-station-pompage-onee)
+End-of-studies project (PFE) at **ONEE Branche-Eau**: a full telemetry (télégestion) system for a remote water pumping station, built around a SOFREL S550 PLC. Covers automatic/manual pump cycle control based on level thresholds, real-time monitoring of pressure/flow/level, centralized alarm management with SMS notifications, and SCADA supervision via PCWin.
+
+**Tech Stack:** SOFREL S550, SOFTOOLS, Modbus RTU/TCP, GSM/GPRS, PCWin SCADA, Industrial Instrumentation
 
 ### 🚚 [TrackSecure: IoT Package Tracking System](https://github.com/abdessamadasklou/parcel-tracking-iot-based)
 Complete IoT solution for real-time package tracking with GPS, ESP32, MQTT/CoAP protocols, Spring Boot microservices, Apache Kafka event streaming, and Apache Spark for ML-based delivery predictions.
@@ -121,6 +127,6 @@ Automatic locking system based on ESP32-CAM and Blynk Cloud with presence detect
 
 ⭐️ From [Abdessamad ASKLOU](https://github.com/abdessamadasklou)
 
-*Last Updated: December 2025*
+*Last Updated: July 2026*
 
 </div>
